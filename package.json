@@ -1,0 +1,30 @@
+{
+  "name": "ic-novel-spider",
+  "version": "1.0.0",
+  "description": "用于爬取轻小说（http://www.shencou.com）的脚本",
+  "main": "index.js",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.2",
+    "iconv-lite": "^0.4.24",
+    "request": "^2.88.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/issaxite/ic-novel-spider.git"
+  },
+  "keywords": [
+    "spider",
+    "novel"
+  ],
+  "author": "isaac",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/issaxite/ic-novel-spider/issues"
+  },
+  "homepage": "https://github.com/issaxite/ic-novel-spider#readme"
+}
