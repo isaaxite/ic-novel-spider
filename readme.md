@@ -23,7 +23,6 @@ config.json
 - `dir`：指定目录（尽可指定一层目录），默认生成config.json统计目录src。
 
 ## 执行
-node命令执行index.js
 ```
-node index.js
+npm run start
 ```
