@@ -1,5 +1,5 @@
 ## ic-novel-spider
-用于爬取轻小说（http://www.shencou.com）的脚本
+用于爬取轻小说（[http://www.shencou.com]）的node脚本
 
 ## 使用
 ```
@@ -26,3 +26,5 @@ config.json
 ```
 npm run start
 ```
+
+[http://www.shencou.com]: http://www.shencou.com
